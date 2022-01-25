@@ -2,23 +2,24 @@
 
 > A curated list of awesome Web3 podcast, video, documentation, blogs, and other resources. Join the revolution 🌊
 
-Welcome to the Web3 awesome list ! Everyone can contribute 🙌 This is a
-**collaborative** set of resources about Web3 ! If you want to add new links or
-suggest an update, I encourage you to open a PR 😀 (see [contribution
-guidelines](contributing.md)).
+Welcome to the Web3 awesome list ! Everyone can contribute 🙌
+
+This is a **collaborative** set of resources about Web3 ! If you want to add
+new links or suggest an update, I encourage you to open a PR 😀 (see
+[contribution guidelines](contributing.md)).
 
 You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas_boni)
 
 ## Contents
 
-- [🗺️ Resources](#resources)
+- [🗺️ Resources](#%EF%B8%8F-resources)
     - [🎤 Podcasts](#-podcasts)
     - [🐦 Tweet threads](#-tweet-threads)
     - [📺 Videos](#-videos)
-    - [🗞️ Newsletters](#-newsletters)
+    - [🗞️ Newsletters](#%EF%B8%8F-newsletters)
     - [📄 Articles](#-articles)
 - [🍔 Web3 products](#-web3-products)
-    - [🖼️ Art NFTs](#-art-nft)
+    - [🖼️ Art NFTs](#%EF%B8%8F-art-nfts)
 - [🔗 Public blockchains](#-public-blockchains)
 
 ## 🗺️ Resources
