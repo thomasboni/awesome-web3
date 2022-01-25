@@ -18,7 +18,7 @@ You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas
     - [Videos](#-videos)
     - [Newsletters](#%EF%B8%8F-newsletters)
     - [Articles](#-articles)
-- [Web3 products](#-web3-products)
+- [Web3 products](#-web3-projects)
     - [Art NFTs](#%EF%B8%8F-art-nfts)
 - [Public blockchains](#-public-blockchains)
 
@@ -64,7 +64,7 @@ List of inspiring resources about Web3
 - [9 steps for a successful NFT drop: Hype, fairness & fun](https://queue-it.com/blog/successful-nft-drop/)
 - [https://davidspinks.substack.com/p/reflections-on-community-in-web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
 
-## 🍔 Web3 companies/products
+## 🍔 Web3 projects
 
 List of companies and product leveraging Web3
 
