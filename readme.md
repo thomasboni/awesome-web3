@@ -62,7 +62,7 @@ List of inspiring resources about Web3
 - [🇫🇷] [Smart Contract, Kezako!?](https://pourunepoigneededollars.substack.com/p/smart-contract-kezako)
 - [🇫🇷] [Chéri, j'ai décentalisé les gosses !](https://pourunepoigneededollars.substack.com/p/cheri-jai-decentralise-les-gosses)
 - [9 steps for a successful NFT drop: Hype, fairness & fun](https://queue-it.com/blog/successful-nft-drop/)
-- [https://davidspinks.substack.com/p/reflections-on-community-in-web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
+- [Reflections on Community in Web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
 
 ## 🍔 Web3 projects
 
