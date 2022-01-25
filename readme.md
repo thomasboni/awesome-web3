@@ -18,7 +18,7 @@ You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas
     - [Videos](#-videos)
     - [Newsletters](#%EF%B8%8F-newsletters)
     - [Articles](#-articles)
-- [Web3 products](#-web3-projects)
+- [Web3 projects](#-web3-projects)
     - [Art NFTs](#%EF%B8%8F-art-nfts)
 - [Public blockchains](#-public-blockchains)
 
