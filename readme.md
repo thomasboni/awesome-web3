@@ -12,15 +12,15 @@ You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas
 
 ## Contents
 
-- [🗺️ Resources](#%EF%B8%8F-resources)
-    - [🎤 Podcasts](#-podcasts)
-    - [🐦 Tweet threads](#-tweet-threads)
-    - [📺 Videos](#-videos)
-    - [🗞️ Newsletters](#%EF%B8%8F-newsletters)
-    - [📄 Articles](#-articles)
-- [🍔 Web3 products](#-web3-products)
-    - [🖼️ Art NFTs](#%EF%B8%8F-art-nfts)
-- [🔗 Public blockchains](#-public-blockchains)
+- [Resources](#%EF%B8%8F-resources)
+    - [Podcasts](#-podcasts)
+    - [Tweet threads](#-tweet-threads)
+    - [Videos](#-videos)
+    - [Newsletters](#%EF%B8%8F-newsletters)
+    - [Articles](#-articles)
+- [Web3 products](#-web3-products)
+    - [Art NFTs](#%EF%B8%8F-art-nfts)
+- [Public blockchains](#-public-blockchains)
 
 ## 🗺️ Resources
 
@@ -28,6 +28,7 @@ List of inspiring resources about Web3
 
 ### 🎤 Podcasts
 
+- [Debate – Are NFTs a scam?](https://www.floorisrising.com/podcast/debate-dennis-porter/)
 - [🇫🇷] [Web3, conversation avec Hugo Renaudin (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDgzMzY4MjI)
 - [🇫🇷] [Web3, Le Grand Remplacement (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDc5MzU3OTg)
 - [Web3 Breakdowns](https://podcasts.google.com/feed/aHR0cHM6Ly93ZWJ0aHJlZS5saWJzeW4uY29tL3Jzcw)
@@ -38,6 +39,7 @@ List of inspiring resources about Web3
 - [WTF is Web 3.0?](https://twitter.com/codingyuri/status/1443183971127410694)
 - [A recent criticism of web3 is that it isn’t actually decentralized, ...](https://twitter.com/cdixon/status/1485303906154467330)
 - [NFTs as JPEGS will not be the dominant mental model ...](https://twitter.com/john_c_palmer/status/1485696543277690887)
+- [Many “communities” actually are less of a “community” and more of a fandom or network.](https://twitter.com/erinmikail/status/1467269554858602511)
 
 ### 📺 Videos
 
@@ -51,15 +53,23 @@ List of inspiring resources about Web3
 
 ### 📄 Articles
 
+- [The Metaverse, Web3, and the Inevitability of NFTs](https://medium.com/the-shadow/the-metaverse-web3-and-the-inevitability-of-nfts-18c8fff1db2a)
+- [NFTs Are An Open Utility Not Just A Speculative Asset](https://polluterofminds.medium.com/nfts-are-an-open-utility-not-just-a-speculative-asset-353cbe8d72fc)
+- [Hello 2022 (and hi web3)](https://uncutfm.substack.com/p/hello-2022-and-hi-web3)
+- [Web3 Is the Future of the Creator Economy](https://www.entrepreneur.com/article/403948)
+- [Terminology of the NFT Space](https://medium.com/web-design-web-developer-magazine/terminology-of-the-nft-space-aping-mooning-rugging-paperhands-diamondhands-lfg-7524db22185c)
 - [What are Non-Fungible Tokens? (NFT)](https://www.kraken.com/learn/what-are-non-fungible-tokens-nft)
 - [🇫🇷] [Smart Contract, Kezako!?](https://pourunepoigneededollars.substack.com/p/smart-contract-kezako)
 - [🇫🇷] [Chéri, j'ai décentalisé les gosses !](https://pourunepoigneededollars.substack.com/p/cheri-jai-decentralise-les-gosses)
-
+- [9 steps for a successful NFT drop: Hype, fairness & fun](https://queue-it.com/blog/successful-nft-drop/)
+- [https://davidspinks.substack.com/p/reflections-on-community-in-web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
 
 ## 🍔 Web3 companies/products
 
 List of companies and product leveraging Web3
 
+- [Azuki](https://invisiblecollege.substack.com/p/azuki)
+- [VeeFriends](https://veefriends.com/)
 - [Kryptulip](https://www.kryptulip.com/)
 - [Axie Infinity](https://axieinfinity.com/)
 - [uncut.fm](https://uncut.fm/)
