@@ -40,6 +40,7 @@ List of inspiring resources about Web3
 - [A recent criticism of web3 is that it isn’t actually decentralized, ...](https://twitter.com/cdixon/status/1485303906154467330)
 - [NFTs as JPEGS will not be the dominant mental model ...](https://twitter.com/john_c_palmer/status/1485696543277690887)
 - [Many “communities” actually are less of a “community” and more of a fandom or network.](https://twitter.com/erinmikail/status/1467269554858602511)
+- [SyndicateDAO](https://twitter.com/SyndicateDAO/status/1486001592692260870)
 
 ### 📺 Videos
 
@@ -66,7 +67,7 @@ List of inspiring resources about Web3
 
 ## 🍔 Web3 projects
 
-List of companies and product leveraging Web3
+List of projects leveraging Web3
 
 - [Azuki](https://invisiblecollege.substack.com/p/azuki)
 - [VeeFriends](https://veefriends.com/)
