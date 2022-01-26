@@ -32,7 +32,7 @@ List of inspiring resources about Web3
 - [🇫🇷] [Web3, conversation avec Hugo Renaudin (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDgzMzY4MjI)
 - [🇫🇷] [Web3, Le Grand Remplacement (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDc5MzU3OTg)
 - [Web3 Breakdowns](https://podcasts.google.com/feed/aHR0cHM6Ly93ZWJ0aHJlZS5saWJzeW4uY29tL3Jzcw)
-- [🇫🇷] [Se lancer dans la crypto à 18 and et en faire son business](https://lamartingale.io/crypto-monnaies/se-lancer-dans-la-crypto-a-18-ans-et-en-faire-son-business/)
+- [🇫🇷] [Se lancer dans la crypto à 18 ans et en faire son business](https://lamartingale.io/crypto-monnaies/se-lancer-dans-la-crypto-a-18-ans-et-en-faire-son-business/)
 - [🇫🇷] [Mamam, je vais tout t'expliquer sur les NFTs](https://lamartingale.io/crypto-monnaies/maman-je-vais-tout-texpliquer-sur-les-nfts/)
 
 ### 🐦 Tweet threads
