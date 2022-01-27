@@ -49,6 +49,7 @@ List of inspiring resources about Web3
 
 - [What is Web3.0?](https://www.youtube.com/watch?v=nHhAEkG1y2U)
 - [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE)
+- [A decentralized Youtube](https://www.youtube.com/watch?v=RCB_udRbF7Q)
 
 ### 🗞️ Newsletters
 
@@ -68,6 +69,7 @@ List of inspiring resources about Web3
 - [9 steps for a successful NFT drop: Hype, fairness & fun](https://queue-it.com/blog/successful-nft-drop/)
 - [Reflections on Community in Web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
 - [🇫🇷] [Web1, Web2, Web3 en un clin d'oeil ](https://www.lesnumeriques.com/vie-du-net/qu-est-ce-que-le-web3-et-comment-il-pourrait-changer-la-face-d-internet-a172679.html)
+- [Web3 and metaverse are not the same](https://www.coindesk.com/layer2/2021/12/21/web-3-and-the-metaverse-are-not-the-same/)
 
 ## 🍔 Web3 projects
 
