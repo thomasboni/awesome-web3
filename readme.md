@@ -67,6 +67,7 @@ List of inspiring resources about Web3
 - [🇫🇷] [Chéri, j'ai décentalisé les gosses !](https://pourunepoigneededollars.substack.com/p/cheri-jai-decentralise-les-gosses)
 - [9 steps for a successful NFT drop: Hype, fairness & fun](https://queue-it.com/blog/successful-nft-drop/)
 - [Reflections on Community in Web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
+- [🇫🇷] [Web1, Web2, Web3 en un clin d'oeil ](https://www.lesnumeriques.com/vie-du-net/qu-est-ce-que-le-web3-et-comment-il-pourrait-changer-la-face-d-internet-a172679.html)
 
 ## 🍔 Web3 projects
 
