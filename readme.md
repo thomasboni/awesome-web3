@@ -83,6 +83,8 @@ List of projects leveraging Web3
 - [stepn](https://www.stepn.com/)
 - [p00ls](https://www.p00ls.io/)
 - [Sorare](https://sorare.com/)
+- [DeBank](https://debank.com/)
+- [Mirror](https://mirror.xyz/)
 
 ### 🖼️ Art NFTs
 
