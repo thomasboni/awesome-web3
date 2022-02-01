@@ -13,11 +13,11 @@ You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas
 ## Contents
 
 - [Resources](#%EF%B8%8F-resources)
-    - [Podcasts](#-podcasts)
     - [Tweet threads](#-tweet-threads)
     - [Videos](#-videos)
     - [Newsletters](#%EF%B8%8F-newsletters)
     - [Articles](#-articles)
+    - [Podcasts](#-podcasts)
 - [Web3 projects](#-web3-projects)
     - [Art NFTs](#%EF%B8%8F-art-nfts)
 - [Public blockchains](#-public-blockchains)
@@ -25,15 +25,6 @@ You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas
 ## 🗺️ Resources
 
 List of inspiring resources about Web3
-
-### 🎤 Podcasts
-
-- [Debate – Are NFTs a scam?](https://www.floorisrising.com/podcast/debate-dennis-porter/)
-- [🇫🇷] [Web3, conversation avec Hugo Renaudin (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDgzMzY4MjI)
-- [🇫🇷] [Web3, Le Grand Remplacement (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDc5MzU3OTg)
-- [Web3 Breakdowns](https://podcasts.google.com/feed/aHR0cHM6Ly93ZWJ0aHJlZS5saWJzeW4uY29tL3Jzcw)
-- [🇫🇷] [Se lancer dans la crypto à 18 ans et en faire son business](https://lamartingale.io/crypto-monnaies/se-lancer-dans-la-crypto-a-18-ans-et-en-faire-son-business/)
-- [🇫🇷] [Mamam, je vais tout t'expliquer sur les NFTs](https://lamartingale.io/crypto-monnaies/maman-je-vais-tout-texpliquer-sur-les-nfts/)
 
 ### 🐦 Tweet threads
 
@@ -58,6 +49,7 @@ List of inspiring resources about Web3
 
 ### 📄 Articles
 
+- [Why all the Web3 hate?](https://gendal.me/2022/01/13/why-all-the-web3-hate/)
 - [The Metaverse, Web3, and the Inevitability of NFTs](https://medium.com/the-shadow/the-metaverse-web3-and-the-inevitability-of-nfts-18c8fff1db2a)
 - [NFTs Are An Open Utility Not Just A Speculative Asset](https://polluterofminds.medium.com/nfts-are-an-open-utility-not-just-a-speculative-asset-353cbe8d72fc)
 - [Hello 2022 (and hi web3)](https://uncutfm.substack.com/p/hello-2022-and-hi-web3)
@@ -70,6 +62,15 @@ List of inspiring resources about Web3
 - [Reflections on Community in Web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
 - [🇫🇷] [Web1, Web2, Web3 en un clin d'oeil ](https://www.lesnumeriques.com/vie-du-net/qu-est-ce-que-le-web3-et-comment-il-pourrait-changer-la-face-d-internet-a172679.html)
 - [Web3 and metaverse are not the same](https://www.coindesk.com/layer2/2021/12/21/web-3-and-the-metaverse-are-not-the-same/)
+
+### 🎤 Podcasts
+
+- [Debate – Are NFTs a scam?](https://www.floorisrising.com/podcast/debate-dennis-porter/)
+- [🇫🇷] [Web3, conversation avec Hugo Renaudin (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDgzMzY4MjI)
+- [🇫🇷] [Web3, Le Grand Remplacement (Silicon Carne)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDEyMTM3NS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDc5MzU3OTg)
+- [Web3 Breakdowns](https://podcasts.google.com/feed/aHR0cHM6Ly93ZWJ0aHJlZS5saWJzeW4uY29tL3Jzcw)
+- [🇫🇷] [Se lancer dans la crypto à 18 ans et en faire son business](https://lamartingale.io/crypto-monnaies/se-lancer-dans-la-crypto-a-18-ans-et-en-faire-son-business/)
+- [🇫🇷] [Mamam, je vais tout t'expliquer sur les NFTs](https://lamartingale.io/crypto-monnaies/maman-je-vais-tout-texpliquer-sur-les-nfts/)
 
 ## 🍔 Web3 projects
 
