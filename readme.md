@@ -20,6 +20,7 @@ You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas
     - [Podcasts](#-podcasts)
 - [Web3 projects](#-web3-projects)
     - [Art NFTs](#%EF%B8%8F-art-nfts)
+    - [Grants](#-grants)
 - [Public blockchains](#-public-blockchains)
 
 ## 🗺️ Resources
@@ -86,6 +87,31 @@ List of projects leveraging Web3
 - [Sorare](https://sorare.com/)
 - [DeBank](https://debank.com/)
 - [Mirror](https://mirror.xyz/)
+
+### 💰 Grants 
+
+List of projects with great grant programs
+
+- [The Graph](https://twitter.com/graphprotocol), see [Wave 4 Grants](https://thegraph.com/blog/wave-four-grants) **$1.7 Million**
+- [Radicle](https://twitter.com/radicle)
+- [Rally](https://twitter.com/rally_io), see [GUIDE - How to submit a funding proposal](https://forum.rally.io/t/guide-how-to-submit-a-funding-proposal/1407)
+- [Gitcoin](https://gitcoin.co)
+- [NEAR protocol](https://near.org/grants/) **$250 Million**
+- [Solana](https://solana.foundation/grants)
+- [Harmony protocol](https://open.harmony.one/300m-on-bounties-grants-daos/apply-for-grants-or-dao) **$300+ Million**
+- [Polygon](https://polygon.technology/developer-support-program/)
+- [Aurora](https://aurora.dev/grants)
+- [Chainlink](https://chain.link/community/grants)
+- [Celo](https://celo.org/experience/grants#introduction)
+- [Arweave](https://www.arweave.org/get-involved/investment-funding)
+- [Interchain](https://interchain.io/funding/)
+- [Ethereum Foundation](https://ethereum.org/en/community/grants/)
+- [Tezos Foundation](https://tezos.foundation/grants/)
+- [Livepeer](https://github.com/livepeer/Grant-Program)
+- [Consensys](https://consensys.net/grants/)
+- [Protocol Labs](https://grants.protocol.ai/)
+- [Web3 Foundation](https://web3.foundation/grants/)
+- [Sandbox Game](https://www.sandbox.game/fund/en/)
 
 ### 🖼️ Art NFTs
 
