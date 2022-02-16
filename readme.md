@@ -63,6 +63,7 @@ List of inspiring resources about Web3
 - [Reflections on Community in Web3](https://davidspinks.substack.com/p/reflections-on-community-in-web3)
 - [🇫🇷] [Web1, Web2, Web3 en un clin d'oeil ](https://www.lesnumeriques.com/vie-du-net/qu-est-ce-que-le-web3-et-comment-il-pourrait-changer-la-face-d-internet-a172679.html)
 - [Web3 and metaverse are not the same](https://www.coindesk.com/layer2/2021/12/21/web-3-and-the-metaverse-are-not-the-same/)
+- [A product manager’s guide to web3](https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3?r=g4e6g)
 
 ### 🎤 Podcasts
 
