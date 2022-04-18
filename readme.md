@@ -22,6 +22,7 @@ You can also reach me on twitter: [🐦 @thomas_boni](https://twitter.com/thomas
     - [Art NFTs](#%EF%B8%8F-art-nfts)
     - [Grants](#-grants)
 - [Public blockchains](#-public-blockchains)
+- [Communities](#-communities)
 
 ## 🗺️ Resources
 
@@ -133,3 +134,10 @@ List of public blockchains supporting smart contracts
 - [Polygon](https://polygon.technology/)
 - [Avalanche](https://www.avax.network/)
 - [Ethereum](https://ethereum.org/en/)
+
+## 💬 Communities
+
+List of blockchain communities for engineers and developers
+
+- [Blockchain Engineers/Developers (LinkedIn)](https://www.linkedin.com/groups/12650724/)
+- [Qryptic (Discord)](https://discord.gg/vyyqsvbU4h)
