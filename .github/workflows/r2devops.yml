@@ -1,0 +1,24 @@
+# R2Devops.io pipeline generation
+#
+# List of technologies detected in the project : markdown, 
+
+name: R2Devops
+on:
+  push:
+    branches: [ main, r2devops]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+
+  gitleaks:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: gitleaks-action
+      uses: zricethezav/gitleaks-action@master
+
+
+# R2DEVOPS - PROJECT CUSTOMIZATIONS
+# You can update them in your settings :)
+
