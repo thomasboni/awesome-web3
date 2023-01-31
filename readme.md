@@ -48,6 +48,7 @@ List of inspiring resources about Web3
 
 - [🇫🇷] [Pour une Poignée de Dollars](https://pourunepoigneededollars.substack.com/)
 - [Trust vs Verify](https://thedailygwei.substack.com/p/trust-vs-verify-the-daily-gwei-421)
+- [Launchcaster Weekly](https://www.launchcaster.xyz/weekly/)
 
 ### 📄 Articles
 
