@@ -90,6 +90,7 @@ List of projects leveraging Web3
 - [Sorare](https://sorare.com/)
 - [DeBank](https://debank.com/)
 - [Mirror](https://mirror.xyz/)
+- [Hugin Messenger](https://hugin.chat)
 
 ### 💰 Grants 
 
@@ -135,10 +136,13 @@ List of public blockchains supporting smart contracts
 - [Polygon](https://polygon.technology/)
 - [Avalanche](https://www.avax.network/)
 - [Ethereum](https://ethereum.org/en/)
+- [Kryptokrona](https://kryptokrona.org)
 
 ## 💬 Communities
 
 List of blockchain communities for engineers and developers
+
+- [Kryptokrona @ Discord](https://discord.gg/VTgsTGS9b7)
 
 - [Blockchain Engineers/Developers (LinkedIn)](https://www.linkedin.com/groups/12650724/)
 - [Qryptic (Discord)](https://discord.gg/vyyqsvbU4h)
