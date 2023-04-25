@@ -125,6 +125,12 @@ List of Art NFT collections
 - [Honey Badgers Club](https://honeybadgers.club/)
 - [Piano King](https://piano-king.com/)
 
+### 🔧 Developer Tools
+
+List of projects that make it easier to build in web3
+
+- [Privy](https://privy.io)
+
 ## 🔗 Public blockchains
 
 List of public blockchains supporting smart contracts
